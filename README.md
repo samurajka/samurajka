@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, web design, art, gaming
 - 🌱 I’m currently learning webdev, SQL, C#
 - 📫 How to reach me: tba
-- 😄 Pronouns: Born to she/her, forced to he/him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I really like Lua
 
 <!---
