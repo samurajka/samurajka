@@ -5,6 +5,7 @@
 - 📫 How to reach me: tba
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I really like Lua
+- 🏳️‍🌈🏳️‍⚧️ ally
 
 <!---
 samurajka/samurajka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
