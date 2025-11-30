@@ -4,6 +4,7 @@
 - I’m currently learning webdev, SQL, C#
 - I really like Lua
 - 🏳️‍🌈🏳️‍⚧️ ally
+- Summary of my skills: https://samurajka.github.io/
 - For work/internship oportunities message me at www.linkedin.com/in/claire-tischlinger-319321399
 - If you want to message me for other reasons you can on Bluesky https://bsky.app/profile/samurajka.bsky.social
 - Lets link and build
