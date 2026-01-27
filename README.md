@@ -6,7 +6,7 @@
 - 🏳️‍🌈🏳️‍⚧️ ally
 - Summary of my skills: https://samurajka.github.io/
 - For work/internship oportunities message me at www.linkedin.com/in/claire-tischlinger-319321399
-- If you want to message me for other reasons you can on Bluesky https://bsky.app/profile/samurajka.bsky.social
+- If you want to message me for other reasons you can on Bluesky https://bsky.samurajka.xyz
 - Lets link and build
 
 <!---
